@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Wiktor from Wrocław, Poland. I'm young and motivated person for doing awesome web apps in Javascript. My main framework to work with is React. I am self-taught Frontend Developer from over one year. Since then I learned a lot of usefull frameworks and libraries like React, Redux or Material UI to work with.   
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorowsky)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Victorowsky/Victorowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
