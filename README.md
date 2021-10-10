@@ -1,21 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Wiktor
+#### I am Junior Frontend Developer
+I'm a young and motivated person for doing awesome web apps in Javascript. My main framework to work with is React. I am a self-taught Frontend Developer for over one year. Since then I learned a lot of useful frameworks and libraries like React, Redux, or Material UI to work with.
 
-I'm Wiktor from Wrocław, Poland. I'm young and motivated person for doing awesome web apps in Javascript. My main framework to work with is React. I am self-taught Frontend Developer from over one year. Since then I learned a lot of usefull frameworks and libraries like React, Redux or Material UI to work with.   
+Skills: REACT / REDUX  / JS / HTML / CSS / MATERIAL UI
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorowsky)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/victorowsky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.legga.pl)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorowsky)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Victorowsky/Victorowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victorowsky&show_icons=true)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
